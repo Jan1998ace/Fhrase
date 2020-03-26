@@ -1,0 +1,2 @@
+rootProject.name='Fhrase'
+include ':app'
